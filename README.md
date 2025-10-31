@@ -32,8 +32,7 @@
 
 ## 📸 Demo
 
-![Resume Analyzer Demo](![Uploading resumeanalyser-ezgif.com-video-to-gif-converter.gif…]()
-)
+![Resume Analyzer Demo](8d639818-eeb8-4e3e-b3ba-d444a80823f4.gif)
 
 ---
 
