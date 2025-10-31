@@ -32,12 +32,8 @@
 
 ## 📸 Demo
 
-![Resume Analyzer Demo](8d639818-eeb8-4e3e-b3ba-d444a80823f4.gif)
+![Resume Analyzer Demo](![resumeanalyser-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9aad9ad9-4130-4f9a-85ed-fcf56504bb1d)
+)
 
----
-
-## ⚙️ Installation & Setup
-
-1. Clone the repository  
    ```bash
    git clone https://github.com/yourusername/resume-analyzer.git
