@@ -32,8 +32,7 @@
 
 ## 📸 Demo
 
-![Resume Analyzer Demo](![resumeanalyser-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9aad9ad9-4130-4f9a-85ed-fcf56504bb1d)
+(![resumeanalyser-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9aad9ad9-4130-4f9a-85ed-fcf56504bb1d)
 )
 
-   ```bash
-   git clone https://github.com/yourusername/resume-analyzer.git
+
